@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2>Hey 👋, I'm <a href="https://hnimminh.github.io">Minh</a></h2>
 <p align="center">
   <a href="https://www.instagram.com/jamesemyn/">Instagram</a> •
