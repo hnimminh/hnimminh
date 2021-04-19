@@ -1,6 +1,6 @@
 <h2>Hey 👋 I'm <a href="https://hnimminh.github.io">Minh</a></h2>
 
-**hnimminh/hnimminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **hnimminh/hnimminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
  •
 - 🔭 I’m currently working on **LibreSBC**
 - 🌱 I’m currently learning **Go**
