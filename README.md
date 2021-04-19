@@ -1,7 +1,8 @@
 <h2>Hey 👋 I'm <a href="https://hnimminh.github.io">Minh</a></h2>
 
-<!-- **hnimminh/hnimminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
- •
+<!--
+**hnimminh/hnimminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  • 
+
 - 🔭 I’m currently working on **LibreSBC**
 - 🌱 I’m currently learning **Go**
 - 💬 Ask me about **Networking, SIP, Lua & Python**
@@ -10,6 +11,7 @@
 
 
 ![Minh Minh's github stats](https://github-readme-stats.vercel.app/api?username=hnimminh&show_icons=true&hide_border=true)
+-->
 
 <!--
 
