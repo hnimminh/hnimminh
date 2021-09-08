@@ -28,7 +28,6 @@ Check my <a href="https://github.com/hnimminh?tab=repositories"> repositories </
 <p align="center"> 
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=lua">
-  <img src="https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go">
   <img src="https://img.shields.io/badge/-Kamailio-black?style=for-the-badge&logo=kamailio">
   <img src="https://img.shields.io/badge/-FreeSWITCH-black?style=for-the-badge&logo=freeswitch">
   <img src="https://img.shields.io/badge/-RTPEngine-black?style=for-the-badge&logo=rtpengine">
@@ -42,5 +41,6 @@ Check my <a href="https://github.com/hnimminh?tab=repositories"> repositories </
   <img src="https://img.shields.io/badge/-WireShark-black?style=for-the-badge&logo=wireshark">
   <img src="https://img.shields.io/badge/-NFTable-black?style=for-the-badge&logo=nftable">
   <img src="https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=nginx">
+  <img src="https://img.shields.io/badge/-G...-black?style=for-the-badge&logo=go">
   <img src="https://img.shields.io/badge/-K...-black?style=for-the-badge&logo=Kubernetes">
 </p>
