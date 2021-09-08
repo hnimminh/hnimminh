@@ -3,7 +3,7 @@
 </h1>
 <!-- <a href="https://www.instagram.com/minh.n.h"> <img src="https://img.shields.io/badge/-INSTAGRAM-pink?style=for-the-badge&logo=Instagram"></a>-->
 <p align="center"> 
-  <a href="mail:hnimminh@outlook.com">
+  <a href="mailto:hnimminh@outlook.com">
     <img src="https://img.shields.io/badge/-HIRE ME-d90000?style=for-the-badge&logo=microsoft-outlook">
   </a>
     <a href="https://www.paypal.com/paypalme/hnimminh"> 
