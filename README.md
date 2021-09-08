@@ -1,14 +1,18 @@
-<h2 align="center">
-  Hi there 👋 I'm <a href="https://hnimminh.github.io">Minh</a>
-</h2>
+<h1 align="center">
+  <em> Hi there 👋 I'm <a href="https://hnimminh.github.io">Minh</a> </em>
+</h1>
 <!-- <a href="https://www.instagram.com/minh.n.h"> <img src="https://img.shields.io/badge/-INSTAGRAM-pink?style=for-the-badge&logo=Instagram"></a>-->
 <p align="center"> 
-  <a href="https://github.com/hnimminh">
-    <img src="https://img.shields.io/badge/-GITHUB-d90000?style=for-the-badge&logo=github">
+  <a href="mail:hnimminh@outlook.com">
+    <img src="https://img.shields.io/badge/-HIRE ME-d90000?style=for-the-badge&logo=microsoft-outlook">
+  </a>
+    <a href="https://www.paypal.com/paypalme/hnimminh"> 
+    <img src="https://img.shields.io/badge/-Donate-f7f7f7?style=for-the-badge&logo=paypal"> 
   </a>
   <a href="https://github.com/hnimminh">
     <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=LinkedIn">
   </a>
+
 </p>
 
 <p align="center"> 
@@ -21,7 +25,7 @@
 
 I am the father of <a href="https://github.com/hnimminh/libresbc">LibreSBC</a> the open-source session border controller, which already help many organization secure their voice infra and save a lot of money. I keep going the work on multiple open source project to assist people build their owned softwars. Let work and enjoy coding, idea .. 
 
-Check my <a href="https://github.com/hnimminh?tab=repositories"> repositories </a> for detail! 
+Check my <a href="https://github.com/hnimminh?tab=repositories"> repositories </a> for detail!
 
 <br>
 <h2> </h2>
