@@ -1,30 +1,23 @@
-<h2>Hey 👋 I'm <a href="https://hnimminh.github.io">Minh</a></h2>
+<h2 align="center">
+  Hi there 👋 I'm <a href="https://hnimminh.github.io">Minh</a>
+</h2>
+<!-- <a href="https://www.instagram.com/minh.n.h"> <img src="https://img.shields.io/badge/-INSTAGRAM-pink?style=for-the-badge&logo=Instagram"></a>-->
+<p align="center"> 
+  <a href="https://github.com/hnimminh">
+    <img src="https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/hnimminh">
+    <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=LinkedIn">
+  </a>
+</p>
 
-<!--
-**hnimminh/hnimminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  • 
+<p align="center"> 
+    <img src="https://img.shields.io/badge/-VOICE DEVELOPER-white?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-PYTHONISTA-white?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-NETWORK ENGINEER-white?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-PHOTOGRAPHER-white?style=for-the-badge">
+</p>
 
-- 🔭 I’m currently working on **LibreSBC**
-- 🌱 I’m currently learning **Go**
-- 💬 Ask me about **Networking, SIP, Lua & Python**
-- 📫 How to reach me: [hnimminh at outlook dot com]
-- ⚡ Fun fact: I'm a [destination photographer](https://www.instagram.com/jamesemyn/) :camera: and love to capture [awesome moments](https://www.instagram.com/emynstudio/)
+I am an father of <a href="https://github.com/hnimminh/libresbc">LibreSBC</a> the open-source session border controller, which already help many organization secure their voice infra and save a lot of money.
 
-
-![Minh Minh's github stats](https://github-readme-stats.vercel.app/api?username=hnimminh&show_icons=true&hide_border=true)
--->
-
-<!--
-
-https://github.com/abhisheknaiidu/awesome-github-profile-readme
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
