@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/-PHOTOGRAPHER-white?style=for-the-badge">
 </p>
 
-I am an father of <a href="https://github.com/hnimminh/libresbc">LibreSBC</a> the open-source session border controller, which already help many organization secure their voice infra and save a lot of money.
+I am the father of <a href="https://github.com/hnimminh/libresbc">LibreSBC</a> the open-source session border controller, which already help many organization secure their voice infra and save a lot of money. I keep going the work on multiple open source project to assist people build their owned softwars. Let work and enjoy coding, idea .. 
 
+Check my <a href="https://github.com/hnimminh?tab=repositories"> repositories </a> for detail! 
 
