@@ -34,6 +34,7 @@ Check my <a href="https://github.com/hnimminh?tab=repositories"> repositories </
   <img src="https://img.shields.io/badge/-RTPEngine-black?style=for-the-badge&logo=rtpengine">
   <img src="https://img.shields.io/badge/-Asterisk-black?style=for-the-badge&logo=asterisk">
   <img src="https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=redis">
+  <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql">
   <img src="https://img.shields.io/badge/-Ansible-black?style=for-the-badge&logo=ansible">
   <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker">
   <img src="https://img.shields.io/badge/-Debian-black?style=for-the-badge&logo=debian">
