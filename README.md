@@ -6,13 +6,12 @@
   <a href="mailto:hnimminh@outlook.com">
     <img src="https://img.shields.io/badge/-HIRE ME-d90000?style=for-the-badge&logo=microsoft-outlook">
   </a>
-    <a href="https://www.paypal.com/paypalme/hnimminh"> 
-    <img src="https://img.shields.io/badge/-Donate-f1f1f1?style=for-the-badge&logo=paypal"> 
-  </a>
   <a href="https://github.com/hnimminh">
     <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=LinkedIn">
   </a>
-
+  <a href="https://www.paypal.com/paypalme/hnimminh"> 
+    <img src="https://img.shields.io/badge/-Donate-f1f1f1?style=for-the-badge&logo=paypal"> 
+  </a>
 </p>
 
 <p align="center"> 
