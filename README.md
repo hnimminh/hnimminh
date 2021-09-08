@@ -41,6 +41,6 @@ Check my <a href="https://github.com/hnimminh?tab=repositories"> repositories </
   <img src="https://img.shields.io/badge/-WireShark-black?style=for-the-badge&logo=wireshark">
   <img src="https://img.shields.io/badge/-NFTable-black?style=for-the-badge&logo=nftable">
   <img src="https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=nginx">
-  <img src="https://img.shields.io/badge/-G...-black?style=for-the-badge&logo=go">
-  <img src="https://img.shields.io/badge/-K...-black?style=for-the-badge&logo=Kubernetes">
+  <img src="https://img.shields.io/badge/-...-black?style=for-the-badge&logo=go">
+  <img src="https://img.shields.io/badge/-...-black?style=for-the-badge&logo=Kubernetes">
 </p>
