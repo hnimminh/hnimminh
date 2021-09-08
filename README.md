@@ -15,7 +15,7 @@
 </p>
 
 <p align="center"> 
-    <img src="https://img.shields.io/badge/-VOICE DEVELOPER-white?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-VOIP DEVELOPER-white?style=for-the-badge">
     <img src="https://img.shields.io/badge/-PYTHONISTA-white?style=for-the-badge">
     <img src="https://img.shields.io/badge/-NETWORK ENGINEER-white?style=for-the-badge">
     <img src="https://img.shields.io/badge/-PHOTOGRAPHER-white?style=for-the-badge">
