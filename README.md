@@ -22,7 +22,7 @@
 </p>
 <h2> </h2>
 
-I am the father of <a href="https://github.com/hnimminh/libresbc">LibreSBC</a> the open-source session border controller, which already help many organization secure their voice infrastructure and save a lot of money. I keep my work on multiple open source project to assist people build their owned software as well as solution.
+I am the father of <a href="https://github.com/hnimminh/libresbc">🗽LibreSBC</a>  the open-source session border controller, which already help many organization secure their voice infrastructure and save a lot of money. I keep my work on multiple open source project to assist people build their owned software as well as solution.
 
 Let check my projects <a href="https://github.com/hnimminh?tab=repositories"> here </a> and enjoy coding..
 
