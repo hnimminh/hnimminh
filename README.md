@@ -22,9 +22,9 @@
 </p>
 <h2> </h2>
 
-I am the father of <a href="https://github.com/hnimminh/libresbc">LibreSBC</a> the open-source session border controller, which already help many organization secure their voice infra and save a lot of money. I keep working on multiple open source project to assist people build their owned software/solution. 
+I am the father of <a href="https://github.com/hnimminh/libresbc">LibreSBC</a> the open-source session border controller, which already help many organization secure their voice infrastructure and save a lot of money. I keep my work on multiple open source project to assist people build their owned software as well as solution.
 
-Let check my <a href="https://github.com/hnimminh?tab=repositories"> works </a> and enjoy coding..
+Let check my projects <a href="https://github.com/hnimminh?tab=repositories"> here </a> and enjoy coding..
 
 
 <br>
@@ -48,3 +48,26 @@ Let check my <a href="https://github.com/hnimminh?tab=repositories"> works </a> 
   <img src="https://img.shields.io/badge/-...-black?style=for-the-badge&logo=go">
   <img src="https://img.shields.io/badge/-...-black?style=for-the-badge&logo=Kubernetes">
 </p>
+
+<!--
+<p align="center"> 
+  <img src="https://img.shields.io/badge/-Python-ffd700?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/-Lua-00005f?style=for-the-badge&logo=lua">
+  <img src="https://img.shields.io/badge/-Kamailio-00af87?style=for-the-badge&logo=kamailio">
+  <img src="https://img.shields.io/badge/-FreeSWITCH-5f87af?style=for-the-badge&logo=freeswitch">
+  <img src="https://img.shields.io/badge/-RTPEngine-af005f?style=for-the-badge&logo=rtpengine">
+  <img src="https://img.shields.io/badge/-Asterisk-ffaf00?style=for-the-badge&logo=asterisk">
+  <img src="https://img.shields.io/badge/-Redis-e4e4e4?style=for-the-badge&logo=redis">
+  <img src="https://img.shields.io/badge/-MySQL-005faf?style=for-the-badge&logo=mysql">
+  <img src="https://img.shields.io/badge/-Ansible-d70000?style=for-the-badge&logo=ansible">
+  <img src="https://img.shields.io/badge/-Docker-87d7ff?style=for-the-badge&logo=docker">
+  <img src="https://img.shields.io/badge/-Debian-ffaf00?style=for-the-badge&logo=debian">
+  <img src="https://img.shields.io/badge/-CentOS-d70087?style=for-the-badge&logo=centos">
+  <img src="https://img.shields.io/badge/-WireShark-00d7d7?style=for-the-badge&logo=wireshark">
+  <img src="https://img.shields.io/badge/-NFTable-d70000?style=for-the-badge&logo=nftable">
+  <img src="https://img.shields.io/badge/-Nginx-00af87?style=for-the-badge&logo=nginx">
+  <img src="https://img.shields.io/badge/-...-black?style=for-the-badge&logo=go">
+  <img src="https://img.shields.io/badge/-...-black?style=for-the-badge&logo=Kubernetes">
+</p>
+-->
+
