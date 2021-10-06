@@ -4,15 +4,17 @@
 <!-- <a href="https://www.instagram.com/minh.n.h"> <img src="https://img.shields.io/badge/-INSTAGRAM-pink?style=for-the-badge&logo=Instagram"></a>-->
 <p align="center"> 
   <a href="mailto:hnimminh@outlook.com">
-    <img src="https://img.shields.io/badge/-HIRE ME-d90000?style=for-the-badge&logo=microsoft-outlook">
+    <img src="https://img.shields.io/badge/-EMAIL ME-d90000?style=for-the-badge&logo=microsoft-outlook">
   </a>
   <a href="https://github.com/hnimminh">
     <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=LinkedIn">
   </a>
+</p>
+<!--
   <a href="https://www.paypal.com/paypalme/hnimminh"> 
     <img src="https://img.shields.io/badge/-Donate-f1f1f1?style=for-the-badge&logo=paypal"> 
-  </a>
-</p>
+  </a> 
+-->
 
 <p align="center"> 
     <img src="https://img.shields.io/badge/-VOIP DEVELOPER-white?style=for-the-badge">
