@@ -28,14 +28,12 @@ I am the father of <a href="https://github.com/hnimminh/libresbc">🗽LibreSBC</
 
 Let check my projects <a href="https://github.com/hnimminh?tab=repositories"> here </a> and enjoy coding..
 
-<!--
 If you are feeling generous, you can individually support my work and open source tools and help to make it sustainable.
 <p align="center"> 
-  <img width="96px" src="bc.png">
-  <br>Address: 1MNjpx5Jy9KUxx2gt5qVmExruehgPi3dQX
-  <br>Network: Bitcoin
+  <img width="100px" src="bc.png">
+  <br>Bitcoin
+  <br>1MNjpx5Jy9KUxx2gt5qVmExruehgPi3dQX
 </p>
--->
 
 <br>
 <h2> </h2>
