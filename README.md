@@ -31,7 +31,7 @@ Let check my projects <a href="https://github.com/hnimminh?tab=repositories"> he
 If you are feeling generous, you can individually support my work and open source tools, help to make it sustainable.
 <p align="center"> 
   <img width="100px" src="bc.png">
-  <br>Bitcoin
+  <br>BITCOIN
   <br>1MNjpx5Jy9KUxx2gt5qVmExruehgPi3dQX
 </p>
 
