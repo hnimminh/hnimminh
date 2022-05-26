@@ -6,7 +6,7 @@
   <a href="mailto:hnimminh@outlook.com">
     <img src="https://img.shields.io/badge/-EMAIL ME-d90000?style=for-the-badge&logo=microsoft-outlook">
   </a>
-  <a href="https://github.com/hnimminh">
+  <a href="https://www.linkedin.com/in/mnguyenhoang/">
     <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=LinkedIn">
   </a>
 </p>
