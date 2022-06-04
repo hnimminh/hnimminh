@@ -22,7 +22,8 @@
     <img src="https://img.shields.io/badge/-NETWORK ENGINEER-white?style=for-the-badge">
     <img src="https://img.shields.io/badge/-PHOTOGRAPHER-white?style=for-the-badge">
 </p>
-<h2> </h2>
+<h3 align="center"><a href="mailto:hnimminh@outlook.com">OPEN TO WORK </a></h3>
+<h2></h2>
 
 I am the father of <a href="https://github.com/hnimminh/libresbc">🗽LibreSBC</a>  the open-source session border controller, which already help many organization secure their voice infrastructure as well as save a lot of money. I keep my work on multiple open source project to assist people build their owned software and solution.
 
@@ -31,12 +32,12 @@ Let check my projects <a href="https://github.com/hnimminh?tab=repositories"> he
 If you are feeling generous, you can individually support my work and open source tools, help to make it sustainable.
 <p align="center"> 
   <img width="100px" src="bc.png">
-  <br>BITCOIN
+  <br><strong>BITCOIN</strong>
   <br>1MNjpx5Jy9KUxx2gt5qVmExruehgPi3dQX
 </p>
 
 <br>
-<h2> </h2>
+<h2></h2>
 <p align="center"> 
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=lua">
