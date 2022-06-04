@@ -55,6 +55,7 @@ If you are feeling generous, you can individually support my work and open sourc
   <img src="https://img.shields.io/badge/-NFTable-black?style=for-the-badge&logo=nftable">
   <img src="https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=nginx">
   <img src="https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go">
+  <img src="https://img.shields.io/badge/-Cisco-black?style=for-the-badge&logo=cisco">
   <img src="https://img.shields.io/badge/-...-black?style=for-the-badge&logo=Kubernetes">
 </p>
 
