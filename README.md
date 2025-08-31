@@ -22,12 +22,14 @@
     <img src="https://img.shields.io/badge/-NETWORK ENGINEER-white?style=for-the-badge">
     <img src="https://img.shields.io/badge/-PHOTOGRAPHER-white?style=for-the-badge">
 </p>
+
 <!-- <h3 align="center"><a href="mailto:hnimminh@outlook.com">OPEN TO WORK </a></h3> -->
+<!-- <a href="https://github.com/hnimminh/horseman">🏇🏼Horseman</a> - a versatile `Swiss Army knife` SIP server. -->
 <h2></h2>
 
-I am the father of <a href="https://github.com/hnimminh/libresbc">🗽LibreSBC</a> - the open-source session border controller & <a href="https://github.com/hnimminh/horseman">🏇🏼Horseman</a> - a versatile `Swiss Army knife` SIP server. They already help many organization secure their voice infrastructure as well as save a lot of money. I keep my work on multiple open source project to assist people build their owned software and solution.
+I am the father of <a href="https://github.com/hnimminh/libresbc">🗽LibreSBC</a> - the open-source session border controller. It already help many organization secure their voice infrastructure and save a lot of money well as. 
 
-Let check my projects <a href="https://github.com/hnimminh?tab=repositories"> here </a> and enjoy coding..
+I keep my work on multiple open source project to assist people build their owned software and solution. Let check my projects <a href="https://github.com/hnimminh?tab=repositories"> here </a> and enjoy coding..
 
 If you are feeling generous, you can individually support my work and open source tools, help to make it sustainable.
 <br><br><br>
